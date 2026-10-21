@@ -1,19 +1,17 @@
 {
+  "short_name": "App 2C",
   "name": "App 2C Parini",
-  "short_name": "2C Parini",
-  "description": "App della classe Seconda C del Liceo Parini",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
-  "background_color": "#f8fafc",
-  "theme_color": "#4f46e5",
-  "orientation": "portrait",
+  "description": "L'app ufficiale della classe",
   "icons": [
     {
       "src": "/icon.svg",
-      "sizes": "any",
       "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
 }
